@@ -1,2 +1,2 @@
 # Calc1
-simple java calculator
+Skoluppgift Miniräknare i konsollen
